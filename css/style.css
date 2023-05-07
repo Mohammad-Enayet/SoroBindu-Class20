@@ -1,0 +1,18 @@
+/* Top Header Section Start */
+.cus-head{
+    background-color: #e3f2fd;
+}
+.logo-img{
+    width: 50px;
+}
+/* Top Header Section End */
+.carousel-item img{
+    height: 700px;
+}
+.footer-sec{
+    background-color: #17a2b8;
+}
+.footer-sec p{
+    margin: 0px;
+    font-size: 20px;
+}
